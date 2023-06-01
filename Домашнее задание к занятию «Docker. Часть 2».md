@@ -59,7 +59,7 @@ Docker compose, с его помощью можно управлять неск�
 
 1. https://drive.google.com/file/d/19hWV3rNe0AvkOwnA_WyhUsHP6woTAKh0/view?usp=sharing
     
-2. https://drive.google.com/file/d/1FDjj6_zKIJ8tcMhd2a-imidYst5CGxfh/view?usp=sharing
+2. https://drive.google.com/file/d/1ImZJopXl1Yw-ypoMvKKBLrqgaagH5C5f/view?usp=sharing
 
 ---
 
