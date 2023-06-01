@@ -57,20 +57,9 @@ Docker compose, с его помощью можно управлять неск�
 
 #### Ответ
 
-1. pgadmin: # установка pgadmin
-     image: dpage/pgadmin4
-     container_name: gordeevrv-pgadmin
-     environment:
-       PGADMIN_DEFAULT_EMAIL: gordeevrv@ilove-netology.com
-       PGADMIN_DEFAULT_PASSWORD: 112
-     ports:
-       - "61231:80"
-     networks:
-       gordeevrv-my-netology-hw:
-         ipv4_address: 172.22.0.11
-     restart: always
+1. https://drive.google.com/file/d/19hWV3rNe0AvkOwnA_WyhUsHP6woTAKh0/view?usp=sharing
     
- 2. https://drive.google.com/file/d/1FDjj6_zKIJ8tcMhd2a-imidYst5CGxfh/view?usp=sharing
+2. https://drive.google.com/file/d/1FDjj6_zKIJ8tcMhd2a-imidYst5CGxfh/view?usp=sharing
 
 ---
 
