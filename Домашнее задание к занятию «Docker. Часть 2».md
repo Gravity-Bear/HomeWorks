@@ -59,7 +59,8 @@ Docker compose, с его помощью можно управлять неск�
 
 1. https://drive.google.com/file/d/19hWV3rNe0AvkOwnA_WyhUsHP6woTAKh0/view?usp=sharing
     
-2. ![задание4_pgadmin](https://github.com/Gravity-Bear/HomeWorks/assets/122636759/afc1532d-df49-4ba6-bc35-1b96296a6f6a)
+2. ![задание4__pgadmin](https://github.com/Gravity-Bear/HomeWorks/assets/122636759/9f6e746d-647e-4320-849d-edee4e127e8c)
+
 
 
 ---
